@@ -34,3 +34,4 @@ xgboost
 bitarray
 sympy
 sktime
+pmdarima
