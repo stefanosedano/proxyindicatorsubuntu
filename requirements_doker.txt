@@ -32,4 +32,5 @@ tensorflow
 plotnine
 xgboost
 bitarray
-
+sympy
+sktime
